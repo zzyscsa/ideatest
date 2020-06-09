@@ -5,7 +5,7 @@ public class Person {
         System.out.println(a+b);
         String s = "哈哈";
         String str = "ffffff";
-        String str = "asdfsaf";
+        String str1 = "asdfsaf";
         System.out.println(s);
         if (s.charAt(0)=='a')
             System.out.println(true);
