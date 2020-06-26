@@ -9,5 +9,8 @@ public class Person {
         System.out.println(s);
         if (s.charAt(0)=='a')
             System.out.println(true);
+
+        String sss = "dmafigjoisnasoefe";
+        System.out.println(sss);
     }
 }
